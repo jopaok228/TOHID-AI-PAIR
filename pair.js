@@ -8,7 +8,7 @@ const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-AI
+https://github.com/jopaok228/SCORP_XD
 
 *Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
 https://t.me/Tohid_Tech
@@ -23,12 +23,12 @@ https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
 https://youtube.com/Tohidkhan_6332
 
 *ɢɪᴛʜᴜʙ* 🌟
-http://GitHub.com/Tohidkhan6332
+https://github.com/jopaok228/SCORP_XD
 
 *Wᴇʙsɪᴛᴇ* 🌟
 https://tohid-khan-web.vercel.app/
 
-*TOHID-AI--WHATTSAPP-BOT* 🥀
+*SCORP-XD--WHATTSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
